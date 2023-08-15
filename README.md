@@ -42,6 +42,8 @@ Asignar cupo, número de tarjeta, cvv y fecha de vencimiento para cada
 tipo de tarjeta de crédito.
 Ejecutar el método imprimir para cada caso.
 
+![Descripción de la imagen](https://i.ibb.co/gZtdnQf/Tarjetas-de-credito.png)
+
 3. En este ejercicio calcularemos el área de diferentes figuras geometricas.
 Crear una interfaz FiguraGeometrica con los siguientes
 métodos:calcularArea()
