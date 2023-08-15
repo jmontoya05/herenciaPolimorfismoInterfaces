@@ -18,6 +18,8 @@ Crear las clases Ingeniero, Arquitecto y Médico.
 ○ Médico: $3’000.000
 ● Calcule el sueldo para cada uno de los casos.
 
+![Descripción de la imagen](https://i.ibb.co/KwvLYYf/Profesiones.png)
+
 2. En este ejercicio modelaremos los tipos de tarjeta de crédito que
 posee un banco.
 Crear la clase TarjetaCredito con los siguientes atributos:
