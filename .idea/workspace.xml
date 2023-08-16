@@ -5,17 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f69a7d3b-ba7a-4ad6-95f4-242ad0990d8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/herenciaPolimorfismoInterfaces.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/profesiones/Arquitecto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/profesiones/Ingeniero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/profesiones/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/profesiones/Medico.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/profesiones/Profesion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarjetasDeCredito/Black.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarjetasDeCredito/Clasica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarjetasDeCredito/Dorada.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarjetasDeCredito/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarjetasDeCredito/Platinum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tarjetasDeCredito/TarjetaDeCredito.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +28,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2U1Iw09JYBnecYslimq7iZJo4On" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
