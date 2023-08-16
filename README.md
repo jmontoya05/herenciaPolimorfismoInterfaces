@@ -55,3 +55,5 @@ Ancho, de tipo Integer.
 Implementar la interfaz polígono.
 Calcular área, perímetro y número de lados para cada uno de los
 casos.
+
+![Descripción de la imagen](https://i.ibb.co/18CrH5M/Figuras-geometricas.png)
