@@ -105,20 +105,20 @@ casos.
    ![Inventario libros](https://i.ibb.co/26zxPT4/Inventario-libros.png)
 
 
-6. Imagina que estás desarrollando un sistema de ges1ón de vehículos que debe manejar
-diferentes 1pos de vehículos, como automóviles y motocicletas. Los vehículos 1enen
-caracterís1cas comunes como número de ruedas, marca y modelo, pero también 1enen
+6. Imagina que estás desarrollando un sistema de gestión de vehículos que debe manejar
+diferentes tipos de vehículos, como automóviles y motocicletas. Los vehículos tienen
+caracterís1cas comunes como número de ruedas, marca y modelo, pero también tienen
 propiedades específicas.
 Define una clase base llamada Vehiculo que tenga los siguientes atributos y métodos:
 Atributos: ruedas, marca, modelo
 Método: obtener_informacion() que imprime la información básica del vehículo.
 Crea dos clases derivadas de Vehiculo:
 a. Automovil:
-Atributos adicionales: numero_puertas, 1po_combus1ble
+Atributos adicionales: numero_puertas, tipo_combustible
 Método: obtener_informacion() que llama al método base y luego muestra la información
 específica del automóvil.
 b. Motocicleta:
-Atributos adicionales: cilindrada, 1po_manejo
+Atributos adicionales: cilindrada, tipo_manejo
 Método: obtener_informacion() que llama al método base y luego muestra la información
 específica de la motocicleta.
 Define una interfaz llamada Conducible con el método conducir().
