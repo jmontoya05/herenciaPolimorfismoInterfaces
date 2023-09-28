@@ -30,4 +30,5 @@ public class Motocicleta extends Vehiculo implements Conducible{
     public void conducir() {
         System.out.println("La motocicleta se encuentra en movimiento");
     }
+
 }
