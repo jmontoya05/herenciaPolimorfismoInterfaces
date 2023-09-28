@@ -133,3 +133,52 @@ propietarios a cada uno. Luego, muestra la información de los propietarios y su
 
 
    ![Gestion vehiculos](https://i.ibb.co/09tYzBW/Gestion-vehiculos.png)
+
+
+7. En este ejercicio crearás un sistema completo de gestión para una universidad. Utilizarás
+conceptos avanzados de POO, herencia, interfaces y clases abstractas para modelar
+diferentes aspectos de la universidad.
+Instrucciones:
+• Crea una interfaz llamada Estadisticas con los siguientes métodos abstractos:
+• double calcularPromedio();
+• double calcularMaximo();
+• double calcularMinimo();
+• Crea una clase abstracta llamada Persona con los siguientes atributos protegidos:
+• nombre (String)
+• edad (int)
+• genero (String)
+• Implementa dos clases que hereden de Persona:
+• Estudiante: Agrega un atributo adicional carnet (String) y un array de notas
+(double[]) para representar las calificaciones del estudiante. Implementa la interfaz
+Estadisticas para calcular el promedio, máximo y mínimo de las notas.
+• Profesor: Agrega un atributo adicional titulo (String) y un atributo materias
+(ArrayList<String>) para representar las materias que enseña.
+• Crea una clase abstracta llamada Curso con los siguientes atributos protegidos:
+• nombreCurso (String)
+• profesor (Profesor)
+• estudiantes (ArrayList<Estudiante>)
+• Implementa dos clases que hereden de Curso:
+• CursoPresencial: Agrega un atributo adicional horario (String) y un método
+calcularAsistenciaPromedio() para calcular el promedio de asistencia de los
+estudiantes.
+• CursoVirtual: Agrega un atributo adicional plataforma (String) y un método
+calcularParticipacionPromedio() para calcular el promedio de participación de
+los estudiantes en el foro.
+Tareas:
+• Crea objetos de tipo Estudiante y Profesor con información relevante.
+• Crea objetos de tipo CursoPresencial y CursoVirtual y asigna profesores y
+estudiantes.
+• Utiliza los métodos de la interfaz Estadisticas para calcular promedios, máximos y
+mínimos de notas de los estudiantes en diferentes cursos.
+• Agrega una interfaz adicional llamada Gestionable para manejar operaciones de
+inscripción y retiro de estudiantes en los cursos, he implementa más métodos en las
+clases para ejemplificar la lógica
+• Calcula y muestra el promedio de asistencia para los cursos presenciales y el
+promedio de participación para los cursos virtuales.
+• Expande el sistema agregando más clases que hereden de Curso, como CursoTaller
+o CursoLaboratorio, y agrega atributos específicos y métodos relevantes.
+• Implementa un método en la clase Universidad que permita mostrar la información
+completa de todos los cursos, profesores y estudiantes registrados en la
+universidad.
+
+![Gestion vehiculos](https://i.ibb.co/94Xn9KB/Gestion-equipos-de-futbol.png)
